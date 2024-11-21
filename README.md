@@ -39,10 +39,51 @@ We designed most of the visual assets using tools like Adobe Photoshop and Asepr
 
 If we had additional time, we would add:
 
-New Levels and Enemies: Expanding the world with diverse environments and enemy types.
-Enhanced Storytelling: Adding cutscenes and branching storylines for a richer narrative.
-Power-ups and Abilities: Introducing power-ups to provide players with new strategic options.
-Advanced AI: Creating smarter, more dynamic enemies to increase the challenge.
+If we had more time to work on the game, there are several exciting features and improvements we would implement to take the game to the next level:
+
+1. More Levels and Environments
+Design Additional Levels: Expanding the game with new, challenging levels would significantly enhance its replayability and depth. We envision environments like:
+Dungeons: Dark, eerie levels filled with winding paths, hidden treasures, and hardcore traps such as collapsing floors, poison darts, and spike walls.
+Graveyard: A haunting environment with spectral enemies, ghostly visuals, and puzzle elements. Players would need to solve riddles to unlock gates or fight off waves of undead creatures.
+
+2. Cutscenes and Story Integration
+Cutscene Design: We would implement animated cutscenes between levels to develop the storyline further. These cutscenes would feature pixel art animations, possibly with text-based dialogue, to explain the protagonist’s journey and build emotional engagement.
+Narrative Depth: Cutscenes would also serve as a platform to introduce new characters, explain the lore behind the levels, and motivate players to keep progressing.
+
+  Adding NPCs:
+  Populate the world with NPCs who serve various roles:
+  Merchants: Provide players with health potions, weapons, or upgrades.
+  Storytellers: Reveal bits of lore or give clues about upcoming challenges.
+  Quest Givers: Assign side missions that offer rewards and deepen the player's connection to the game world.
+
+  Dialogue System:
+  Implement a branching dialogue system where players can choose responses to NPCs.
+  Player choices would impact the story or gameplay, such as unlocking alternate paths, gaining allies, or earning special items.
+  Dialogue text would appear in stylized speech bubbles or a dialogue box matching the game's pixel art aesthetic.
+
+3. Audio Design
+Background Music: Adding immersive background music tailored to each environment, such as eerie tunes for graveyards, suspenseful tracks for dungeons, and intense battle themes for enemy-heavy areas.
+
+  Sound Effects: Implementing dynamic sound effects for:
+
+  Player actions like jumping, attacking, and taking damage.
+  Enemy attacks, movements, and death animations.
+  Environmental elements such as opening doors, triggering traps, or collecting items.
+  Voiceovers: Optionally, voiceovers for cutscenes or character reactions would further enhance immersion.
+
+4. Bug Fixes
+Addressing Bugs: We would dedicate time to meticulously test and fix:
+Any remaining respawn issues or checkpoint glitches.
+Enemy AI inconsistencies, ensuring smooth movement, attacks, and respawns.
+Collision detection issues in traps and environments.
+Edge cases where players might get stuck or skip portions of the level unintentionally.
+Polishing Gameplay: Refining platforming mechanics for smoother transitions and interactions, particularly when players interact with moving platforms or dynamic traps.
+
+
+
+
+ 
+
 
 Asset Sources and Credits
 Graphics:
