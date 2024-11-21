@@ -80,23 +80,15 @@ Edge cases where players might get stuck or skip portions of the level unintenti
 Polishing Gameplay: Refining platforming mechanics for smoother transitions and interactions, particularly when players interact with moving platforms or dynamic traps.
 
 
-
-
- 
-
-
 Asset Sources and Credits
-Graphics:
-Custom graphics created in Adobe Photoshop and Aseprite.
-Additional background assets from [source name/link].
-Sounds:
-Sound effects from [source name/link].
-Background music composed by [team member/composer name] or sourced from [source name/link].
-Story: Adapted from [Insert Book Title Here] by [Author's Name].
-Video Playthrough
-The video playthrough of the game is available at:
+Graphics Sources Referenced and Applied in our game:
+https://scracho.itch.io/forest-tileset-enemies-pixel-art
+https://gamedeveloperstudio.itch.io/gnomes-mega-character-pack
+https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
+https://assetstore.unity.com/packages/2d/environments/forest-tileset-pixel-art-234711
+https://assetstore.unity.com/packages/2d/environments/forest-platformer-pixel-art-tileset-257296
 
 YouTube: [Insert YouTube Link]
-GitHub Directory: The MP4 file can be found in the GameDemo folder in our GitHub repository at [Insert GitHub Link].
+GitHub Directory: The MP4 file can be found in the GameDemo folder in our GitHub repository at Project Zip file.
 Conclusion
 This project was a rewarding learning experience that showcased the importance of teamwork, problem-solving, and adaptability. While there are always areas for improvement, we are proud of the game we created and the skills we developed during its creation. We look forward to using these lessons in future projects.
