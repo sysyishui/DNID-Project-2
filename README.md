@@ -10,9 +10,9 @@ Each team member contributed to different aspects of the project:
 Cassandra focused more on Story Adaptation and Narrative Design: Responsible for integrating the book’s themes into the game. She was mainly charged with the artistic design of the main menu and narrative introductions. There are specific scripts for all buttons in the main menu and artistic sprites that she originally made. She also made an introduction video on the main menu for players to debrief our adaptive stories. 
 
 Yishui accomplished most Programming and key gameplay mechanism: checkpoint systems, engaging enemy AI, collider setup of floating objects, camera follow mechanism and Health Bar System.
-Yishui also accomplished most of the Graphics and Level Design: Designed and implemented the visual assets, level layouts, and environment aesthetics. Inside our game, we browsed various websites to acquire different sprites to meet our goal, especially for the sprites of our background, floating platforms, player's animation movements, and Genmoe Enmeies' animations. Yishui Implments these online sprites into the projects and makes them workable to meet our expectations.
+Yishui also accomplished most of the Graphics and Level Design: Designed and implemented the visual assets, level layouts, and environment aesthetics. Inside our game, we browsed various websites to acquire different sprites to meet our goal, especially for the sprites of our background, floating platforms, player's animation movements, and Genmoe Enmeies' animations. Yishui implements these online sprites into the projects and makes them workable to meet our expectations.
 
-Both of us did testing and Debugging mainly aims to mechanism implementation and collider issues. In the mid of our build-in process, there were a lots of bugs relating to objects collisions and parameters of characters such as the attack range, player speed, and colliding issues when climbing and jumping. When the game production progresses to the later stage, more mechanism bugs appear；
+Both of us did testing and Debugging mainly aimed at mechanism implementation and collider issues. In the mid of our build-in process, there were lots of bugs relating to object collisions and parameters of characters such as the attack range, player speed, and colliding issues when climbing and jumping. When the game production progresses to the later stage, more mechanism bugs appear；
 
 Respawn Issues: Players did not reset correctly at checkpoints, requiring debugging in the checkpoint manager and player health scripts.
 
@@ -34,15 +34,17 @@ The game concept was decided based on team discussions about creating a balance 
 
 Graphics, and Assets
 Graphics
-We designed most of the visual assets using tools like Adobe Photoshop and Aseprite, focusing on a pixel-art style that matched the game’s tone. For the backgrounds and environment, we used a mix of custom-designed assets and free-to-use assets sourced from online libraries.
+We designed most of the visual assets using tools like Adobe Photoshop and Aseprite, focusing on a pixel art style that matched the game’s tone. For the backgrounds and environment, we used a mix of custom-designed assets and free-to-use assets sourced from online libraries. We chose pixel arts because Pixel art assets are lightweight and load efficiently, making the game run smoothly even on lower-end devices. This decision was crucial to ensure accessibility for a wider audience. Some previous video games such as "Celest" and "Self." In this version of the game, audio assets were intentionally omitted for several reasons: 
+Time Constraints: The focus of our project was on gameplay mechanics, level design, and visual storytelling. With limited time, we prioritized core features over creating or integrating sound effects and background music. Skill Specialization: Our team had limited experience with sound design and music composition. Rather than rushing to create subpar audio, we chose to exclude it entirely to maintain the quality of the overall experience.
+
 
 If we had additional time, we would add:
 
-Multiplayer Mode: Cooperative or competitive gameplay for added replayability.
 New Levels and Enemies: Expanding the world with diverse environments and enemy types.
 Enhanced Storytelling: Adding cutscenes and branching storylines for a richer narrative.
 Power-ups and Abilities: Introducing power-ups to provide players with new strategic options.
 Advanced AI: Creating smarter, more dynamic enemies to increase the challenge.
+
 Asset Sources and Credits
 Graphics:
 Custom graphics created in Adobe Photoshop and Aseprite.
