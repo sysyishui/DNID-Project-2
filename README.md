@@ -93,7 +93,5 @@ https://assetstore.unity.com/packages/2d/environments/forest-tileset-pixel-art-2
 
 https://assetstore.unity.com/packages/2d/environments/forest-platformer-pixel-art-tileset-257296
 
-YouTube: [Insert YouTube Link]
-GitHub Directory: The MP4 file can be found in the GameDemo folder in our GitHub repository at Project Zip file.
-Conclusion
-This project was a rewarding learning experience that showcased the importance of teamwork, problem-solving, and adaptability. While there are always areas for improvement, we are proud of the game we created and the skills we developed during its creation. We look forward to using these lessons in future projects.
+YouTube: [https://www.youtube.com/watch?v=OMJevrpxxuo]
+Zip file decompressor:
