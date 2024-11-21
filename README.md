@@ -82,10 +82,15 @@ Polishing Gameplay: Refining platforming mechanics for smoother transitions and 
 
 Asset Sources and Credits
 Graphics Sources Referenced and Applied in our game:
+
 https://scracho.itch.io/forest-tileset-enemies-pixel-art
+
 https://gamedeveloperstudio.itch.io/gnomes-mega-character-pack
+
 https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
+
 https://assetstore.unity.com/packages/2d/environments/forest-tileset-pixel-art-234711
+
 https://assetstore.unity.com/packages/2d/environments/forest-platformer-pixel-art-tileset-257296
 
 YouTube: [Insert YouTube Link]
