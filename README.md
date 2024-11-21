@@ -94,4 +94,13 @@ https://assetstore.unity.com/packages/2d/environments/forest-tileset-pixel-art-2
 https://assetstore.unity.com/packages/2d/environments/forest-platformer-pixel-art-tileset-257296
 
 YouTube: [https://www.youtube.com/watch?v=OMJevrpxxuo]
-Zip file decompressor:
+
+Zip file decompressor: KeKa(listed in the Github file)
+
+Step 1
+Open the DMG File and download it to your laptop
+
+Step 2
+Once installed, Keka can be used to compress or extract files. 
+Compress: Drag files or folders into Keka's window to create compressed archives.
+Extract: Double-click supported archive files or drag them into Keka's window to extract their contents.
